@@ -4,6 +4,10 @@
   letter-spacing: 1px;
 }
 
+.meojium {
+  background-color: #40A743;
+}
+
 .body-font {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
@@ -452,7 +456,7 @@ footer {
 .bg-primary {
   background: $theme-primary;
   background: -webkit-linear-gradient($theme-primary, $theme-secondary);
-  background: linear-gradient($theme-primary, $theme-secondary);
+  background: #40A743;
 }
 
 .text-primary {
